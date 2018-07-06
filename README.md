@@ -8,7 +8,7 @@
 - Android 
   - Eventbus(green robot)
 
-![./images/eventbus.png](/eventbus.png)
+![image](https://github.com/Aswoo/Used-Library/tree/master/images/eventbus.png)
 
 - 컴포넌트간의 커뮤니케이션을 단순히
 - 빠르고 간단하며 매우 작다. 
