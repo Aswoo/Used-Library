@@ -1,7 +1,3 @@
----
-typora-root-url: ./images
----
-
 # Used-Library
 사용했었던 라이브러리들 정리
 
@@ -12,7 +8,7 @@ typora-root-url: ./images
 - Android 
   - Eventbus(green robot)
 
-![](/eventbus.png)
+![./images/eventbus.png](/eventbus.png)
 
 - 컴포넌트간의 커뮤니케이션을 단순히
 - 빠르고 간단하며 매우 작다. 
