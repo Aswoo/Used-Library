@@ -15,7 +15,7 @@
 - 그리고 100,000,000+ installs로 증명되었음
 - https://github.com/greenrobot/EventBus
 
-
+https://github.com/greenrobot/EventBus/blob/master/EventBus-Publish-Subscribe.png
 
 
 
