@@ -18,5 +18,13 @@
 
 https://github.com/greenrobot/EventBus/blob/master/EventBus-Publish-Subscribe.png
 
+ - RxAndroid(rxjava)
+ 
+Reactive Programming 은 위키에서는 다음과 같이 정의되어 있습니다
+<h4>컴퓨팅으로써 반응형 프로그래밍은 데이터의 흐름과 변화에 대한 전달을 기반으로 하는 프로그래밍 패러다임이다.</h4>
+끊임없이 요청/변경되는 데이터에 반응하기 위해 나온 Reactive Programming 은 데이터를 처리함에 있어서 비동기적으로 데이터를 처리할 때 효율적으로 할 수 있도록 하기 위한 방법
+ RxJava 는 데이터 비동기 처리를 효율적으로 하기 위해 나온 라이브러리
+데이터 단위로 처리해야 할 기능을 선언하고 비동기 선언이 쉽게 될 수 있도록 지원
+
 
 
